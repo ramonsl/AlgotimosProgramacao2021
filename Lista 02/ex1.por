@@ -5,7 +5,7 @@ programa
 	
 /*
 	
-	EXEMPLO
+	EXEMPLO ok
 	Ler um número do teclado e imprimir todos os números de 1 até o número lido.
 	Imprimir a soma dos números.
 	*/
